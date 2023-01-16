@@ -1,16 +1,9 @@
-# yj_class
+# 예정교회 중고등부 출석관리 어플리케이션
 
-A new Flutter project.
+예정교회 다산 성전 중,고등부 출석체크 및 인적사항 관리 도움으로 제작
 
-## Getting Started
+## 사용 언어
+- Flutter & Dart 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 제작 일정
+- [ '22 / 01 / 17 ] 프로젝트 생성
