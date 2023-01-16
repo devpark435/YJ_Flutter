@@ -31,7 +31,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   //   fit: BoxFit.cover,
                   // ),
                 ),
-                child: Text('예정교회 로고 인덱스'),
+                child: Text('예정교회 로고 공간'),
               ),
             ),
             Container(
