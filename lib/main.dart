@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:yj_class/screens/classList.dart';
 import 'package:yj_class/screens/login.dart';
 
 void main() {
@@ -20,6 +21,7 @@ class MyApp extends StatelessWidget {
       initialRoute: "/login",
       routes: {
         "/login": (context) => LoginScreen(),
+        "/classList": (context) => ClassListScreen(),
       },
     );
   }
